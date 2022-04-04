@@ -28,5 +28,4 @@ Just use the link down below v
 
 # Photo Gallery
 
-Interface:
 ![Img](https://media.discordapp.net/attachments/781595903479775253/960650374350532628/Image1.png?width=385&height=468)
