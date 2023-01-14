@@ -6,14 +6,6 @@ A simple software to manage parental controls on x86 and x64 bit windows systems
 
 Has all the basic managing features, including kill and start commands, repeat kill commands, a panic button and a process selection table.
 
-**Future of the project**
-
-I will update the project if there is demand, or if there are any bugs or exeptions that I failed to catch.
-I might port it to mac or linux. Yet again if there is a demand.
-If anyone wants to send me a specific parental controls source, or programs folder files. Then I can work towards making a specific hack for that parental controls app! 
-
-**I will port this to android if we reach a goal of $200. If you want to contribute towards this you can in the donate section v**
-
 # How to Install
 No prerequisites, apart from [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0).
 
